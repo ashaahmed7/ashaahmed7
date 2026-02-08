@@ -1,4 +1,4 @@
-## Hi Asha 👋
+## Hi I'm Asha 👋
 
 <!--
 **ashaahmed7/ashaahmed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +20,13 @@ I’m a newbie developer on an exciting journey into tech. I’m learning step b
 
 🌱 I’m currently learning: JavaScript, HTML, CSS, Git/GitHub, and the fundamentals of software development through CodeYourFuture.
 
-👯 I’m looking to collaborate on: beginner‑friendly web projects where I can learn from others and contribute at my level.
+👯 I’m looking to collaborate on: beginner‑friendly projects where I can learn from others and contribute at my level.
 
 🤔 I’m looking for help with: writing cleaner code, understanding best practices, and improving my confidence with debugging.
 
 💬 Ask me about: my learning journey, how I approach challenges as a new developer, or anything related to CodeYourFuture.
 
-📫 How to reach me: asha.m.ahmed252@gmail.com
+📫 How to reach me: asha.m.ahmed252@gmail.com 
 
 😄 Pronouns: she/her
 
