@@ -26,6 +26,6 @@ I’m a newbie developer on an exciting journey into tech. I’m learning step b
 
 💬 Ask me about: my learning journey, how I approach challenges as a new developer, or anything related to CodeYourFuture.
 
-📫 How to reach me: asha.m.ahmed252@gmail.com 
+📫 How to reach me: ashaahmedtech@gmail.com 
 
 ⚡ Fun fact: I’m not afraid to be a beginner — I ask questions, stay curious, and celebrate every small win.
