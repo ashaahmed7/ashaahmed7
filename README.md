@@ -14,18 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a newbie developer on an exciting journey into tech. I’m learning step by step, building real projects, and discovering what kind of developer I want to become.
+### 👩🏽‍💻 Developer in Progress | Aspiring DevOps Engineer
 
-🔭 I’m currently working on: small JavaScript projects and exercises that help me strengthen my problem‑solving skills.
+I’m learning through hands-on projects while building my skills in software development, cloud, and DevOps.
 
-🌱 I’m currently learning: JavaScript, HTML, CSS, Git/GitHub, and the fundamentals of software development through CodeYourFuture.
+### 🛠️ Tech I'm Learning
 
-👯 I’m looking to collaborate on: beginner‑friendly projects where I can learn from others and contribute at my level.
+Languages: Python · JavaScript · HTML · CSS  
+DevOps: AWS · Docker · Kubernetes · Terraform · CI/CD
 
-🤔 I’m looking for help with: writing cleaner code, understanding best practices, and improving my confidence with debugging.
+### 🔭 Currently Working On
 
-💬 Ask me about: my learning journey, how I approach challenges as a new developer, or anything related to CodeYourFuture.
+- JavaScript & Python projects
+- Git & GitHub
+- Docker & CI/CD
+- AWS & cloud fundamentals
+- Terraform & Infrastructure as Code
+- Kubernetes / EKS
 
-📫 How to reach me: ashaahmedtech@gmail.com 
+### 👯 Looking to Collaborate On
 
-⚡ Fun fact: I’m not afraid to be a beginner — I ask questions, stay curious, and celebrate every small win.
+Beginner-friendly projects where I can learn, contribute, and grow with others.
+
+### 📫 Contact
+
+📧 ashaahmedtech@gmail.com
+
+### ⚡ Fun Fact
+
+I’m not afraid to be a beginner — I ask questions, stay curious, and celebrate every small win! 🚀
