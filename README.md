@@ -14,27 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👩🏽‍💻 Developer in Progress | Aspiring DevOps Engineer
+### 👩🏽‍💻 Software Developer | Cloud & DevOps Enthusiast
 
-I’m learning through hands-on projects while building my skills in software development, cloud, and DevOps.
+I build projects that strengthen my skills in software development, cloud technologies, and DevOps practices. My focus is on automation, infrastructure, and creating reliable deployment workflows.
 
-### 🛠️ Tech I'm Learning
+### 🛠️ Technologies
 
 Languages: Python · JavaScript · HTML · CSS  
-DevOps: AWS · Docker · Kubernetes · Terraform · CI/CD
+Cloud & DevOps: AWS · Docker · Kubernetes · Terraform · CI/CD
 
-### 🔭 Currently Working On
+### 🔭 Current Focus
 
-- JavaScript & Python projects
-- Git & GitHub
-- Docker & CI/CD
-- AWS & cloud fundamentals
-- Terraform & Infrastructure as Code
-- Kubernetes / EKS
+- Building Python and JavaScript applications
+- Containerisation with Docker
+- CI/CD pipeline implementation
+- AWS cloud services and architecture
+- Infrastructure as Code with Terraform
+- Kubernetes and Amazon EKS
 
-### 👯 Looking to Collaborate On
+### 👯 Open to Collaboration
 
-Beginner-friendly projects where I can learn, contribute, and grow with others.
+I'm interested in contributing to open-source projects and collaborating with developers working on cloud, automation, and DevOps-focused solutions.
 
 ### 📫 Contact
 
@@ -42,4 +42,4 @@ Beginner-friendly projects where I can learn, contribute, and grow with others.
 
 ### ⚡ Fun Fact
 
-I’m not afraid to be a beginner — I ask questions, stay curious, and celebrate every small win! 🚀
+I'm naturally curious and enjoy breaking down complex problems into simple, practical solutions. Continuous learning is one of my favourite parts of working in tech. 🚀
